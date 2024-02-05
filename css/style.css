@@ -1,0 +1,90 @@
+body {
+    font-family: 'Arial', Verdana;
+    background-color: #000000;
+    color:#ffffff;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+h1  {
+    text-align: center;
+    font-size: 42px;
+    padding: 15px;
+}
+h2 {
+    font-size:30px;
+    color: #0D0D0D
+}
+p {
+    font-size: 24px;
+    padding-top:10px;
+    padding-left: 10px;
+}
+img {
+    width:250px;
+    display:block;
+    margin: 0 auto;
+    border:10px dashed #ffffff;
+}
+div {
+    padding:20px;
+    border: 10px solid #ffffff;
+    min-height: 125px;
+}
+.introduction {
+    margin-top: 15px;
+    line-height: 2;
+    border-radius:15px;
+}
+.red {
+   background-color:#ff0000;
+   text-align: left;
+   margin-left: 50px;
+}
+.blue {
+    background-color: #0000ff;
+    text-align:left;
+    margin-right: 50px;
+    border-right:5px;
+    border-top:2px;
+}
+.blue p {
+    color:#c4c4c4
+}
+.blue h2 {
+    color:#c4c4c4
+}
+.yellow {
+    background-color: yellow;
+    text-align: right;
+    margin-left: 50px;
+    border-bottom: 2px;
+    border-left: 5px;
+}
+.yellow p {
+  color: #707070
+}
+.green {
+    background-color:#00EB00;
+    text-align: left;
+    margin-right:50px;
+    border: right 5px;
+    border: top 2px;;
+}
+footer{
+    background:linear-gradient(
+        to right,
+        #000000,
+        #0000ff 25%,
+        #0066ff 70%, 
+        #000000
+    );
+    border: 5px solid #ffffff;
+}
+footer p{
+    text-align: right;
+    font-size: 20px;
+    padding: 15px;
+    padding-left:0px
+}
+
