@@ -28,7 +28,7 @@ img {
 }
 div {
     padding:20px;
-    border: 10px solid #ffffff;
+    border: 3px solid #ffffff;
     min-height: 125px;
 }
 .introduction {
@@ -71,7 +71,7 @@ div {
     text-align: left;
     margin-right:50px;
     border: right 5px;
-    border: top 2px;;
+    border: top 2px;
 }
 footer{
     background:linear-gradient(
